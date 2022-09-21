@@ -2,7 +2,7 @@ from datetime import datetime
 import re
 
 # Download and use html file from:
-# https://WIKI_NAME.org/w/index.php?title=Special:Contributions/USER_NAME&offset=&limit=2500&target=USER_NAME
+# https://WIKI_NAME.org/w/index.php?title=Special:Contributions/USER_NAME&offset=&limit=2500&target=USER_NAME&end=2022-09-15
 
 path_to_html_file = r'PATH_TO_HTML_FILE'
 
